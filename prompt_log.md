@@ -1,7 +1,7 @@
 # Prompt Log — Daylighting Simulation Tracker
 
 ## AI Model Used
-- Claude (Anthropic) via claude.ai
+- Claude (Anthropic) and cursor
 
 ## Development Process
 
