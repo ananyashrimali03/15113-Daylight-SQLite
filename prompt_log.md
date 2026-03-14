@@ -39,7 +39,7 @@ We designed the database schema together based on my thesis parameters:
 - Auto-calculated LEED pass/fail
 - Config ID, notes, date
 
-**Prompt:** [I confirmed the schema Claude proposed based on my thesis document]
+**Prompt:** This works and looks good.
 
 ### Step 5: Building the App
 Claude built the full CLI app in one file with:
